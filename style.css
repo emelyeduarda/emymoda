@@ -1,4 +1,11 @@
-header{
-    background-color: lightpink;
-color:black
+.cabecalho {
+    background-color: rgb(255, 213, 219);
+color:black;
+display: flex;
+justify-content: space-around;
 }
+
+.cabecalho-imagem{
+    width: 07%;
+}
+
